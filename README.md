@@ -8,7 +8,7 @@ I don't know Linux yet. I'm learning it properly: file systems, permissions, how
 
 | Date | What I Did |
 |------|------------|
-| Feb 17 | File operations: mkdir, cp, mv, rm |
+| Feb 17 | [File Operations In Linux](./log/File_Operations.md)|
 | Feb 21 | Directory structure: /bin, /etc, /proc, /tmp |
 
 ---
