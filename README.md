@@ -4,28 +4,37 @@ I don't know Linux yet. I'm learning it properly: file systems, permissions, how
 
 ---
 
-##### Learning Log
+#### Progress
 
-| Date | What I Did |
-|------|------------|
-| Feb 17 | [File Operations In Linux](./log/File_Operations.md)|
-| Feb 21 | Directory structure: /bin, /etc, /proc, /tmp |
+| Step | Module | Status |
+|------|--------|--------|
+| 01 | Linux | 🟡 Active |
+| 02 | GIT | ⚪ |
+| 03 | Linux + Vagrant Servers | ⚪ |
+| 04 | Variables, JSON and YAML | ⚪ |
 
----
-
-##### Next
-- File permissions
-- Process management
 
 ---
 
-##### Tools I Use
+#### Learning Log
+
+| Date | What I Did | Note | Practice |
+|------|------------|------|----------|
+| Feb 10 | Setup DevOps lab | [View](https://github.com/ishfaqbuilds/DecodingDevops/blob/main/00%20%E2%86%92%20Setup/DevOps_Lab.md) | |
+| Feb 15 | Setup VM using Vagrant | [View](https://github.com/ishfaqbuilds/DecodingDevops/blob/main/00%20%E2%86%92%20Setup/VM_Setup.md) | |
+| Feb 16 | Introduction To Linux |  |  |
+| Feb 17 | File Operations In Linux | [View](https://github.com/ishfaqbuilds/DecodingDevops/blob/main/01%20%E2%86%92%20Linux/Learnings/File_Operations.md)| |
+
+
+---
+
+#### Tools I Use
 - VirtualBox + Vagrant
 - CentOS & Ubuntu VMs
 
 ---
 
-##### Connect
+#### Connect
 - Portfolio: [ishfaqbuilds.dev](https://ishfaqbuilds.dev)
 - LinkedIn: [Mohammad Ishfaqul Islam](https://www.linkedin.com/in/ishfaqbuilds/)
 - This repo: Progress as it happens.
