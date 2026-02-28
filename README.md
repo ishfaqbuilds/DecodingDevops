@@ -27,6 +27,7 @@ I don't know Linux yet. I'm learning it properly: file systems, permissions, how
 
 ##### Connect
 - Portfolio: [ishfaqbuilds.dev](https://ishfaqbuilds.dev)
+- LinkedIn: [Mohammad Ishfaqul Islam](https://www.linkedin.com/in/ishfaqbuilds/)
 - This repo: Progress as it happens.
 
 ---
