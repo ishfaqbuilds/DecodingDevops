@@ -1,4 +1,7 @@
-### Linux File Operations Note
+### Theory: Linux File Operations
+### Date: February 17, 2026
+
+---
 
 #### Core Concept: Everything is a File  
 In Linux, everything is treated as a file, text files, directories, hardware devices, even processes. This simplifies how the system interacts with resources.
